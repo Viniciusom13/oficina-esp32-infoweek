@@ -2,7 +2,7 @@
 *(O computador precisa disso para "enxergar" a placa)*
 
 * Placas comuns usam o chip CH340 ou CP210x.
-* Baixe e instale o driver CP210x neste link (é o mais comum em placas Heltec/LoRa): 
+* Baixe e instale o driver CP210x neste link (é o mais comum em placas convencionais): 
 👉 [Driver CP210x da Silicon Labs](https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers) *(baixe a versão para Windows ou Mac)*.
 * Se puder, reinicie o PC depois de instalar.
 
